@@ -18,6 +18,7 @@ public class MainApp {
             else
                 list.put(words[i], 1);
         }
-        
+        System.out.println(list);
     }
+    // Не успеваю разобраться со вторым заданием, нужно чуть больше времени!
 }
